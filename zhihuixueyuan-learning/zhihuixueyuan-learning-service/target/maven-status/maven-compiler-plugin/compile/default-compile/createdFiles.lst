@@ -1,0 +1,15 @@
+com\zhihuixueyuan\learning\feignclient\MediaServiceClient.class
+com\zhihuixueyuan\learning\mapper\XcChooseCourseMapper.class
+com\zhihuixueyuan\learning\service\impl\LearningServiceImpl.class
+com\zhihuixueyuan\learning\service\impl\MyCourseTablesServiceImpl.class
+com\zhihuixueyuan\learning\service\impl\ReceivePayNotifyService.class
+com\zhihuixueyuan\learning\feignclient\MediaServiceClientFallbackFactory$1.class
+com\zhihuixueyuan\learning\config\MybatisPlusConfig.class
+com\zhihuixueyuan\learning\feignclient\ContentServiceClientFallbackFactory$1.class
+com\zhihuixueyuan\learning\feignclient\MediaServiceClientFallbackFactory.class
+com\zhihuixueyuan\learning\mapper\XcCourseTablesMapper.class
+com\zhihuixueyuan\learning\feignclient\ContentServiceClientFallbackFactory.class
+com\zhihuixueyuan\learning\service\LearningService.class
+com\zhihuixueyuan\learning\service\MyCourseTablesService.class
+com\zhihuixueyuan\learning\feignclient\ContentServiceClient.class
+com\zhihuixueyuan\learning\config\PayNotifyConfig.class

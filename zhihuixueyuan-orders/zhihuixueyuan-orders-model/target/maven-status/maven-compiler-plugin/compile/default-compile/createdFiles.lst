@@ -1,0 +1,6 @@
+com\zhihuixueyuan\orders\model\dto\PayStatusDto.class
+com\zhihuixueyuan\orders\model\dto\AddOrderDto.class
+com\zhihuixueyuan\orders\model\po\XcOrdersGoods.class
+com\zhihuixueyuan\orders\model\dto\PayRecordDto.class
+com\zhihuixueyuan\orders\model\po\XcOrders.class
+com\zhihuixueyuan\orders\model\po\XcPayRecord.class

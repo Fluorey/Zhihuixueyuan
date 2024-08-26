@@ -1,0 +1,7 @@
+com\zhihuixueyuan\learning\api\MyCourseTablesController.class
+com\zhihuixueyuan\learning\config\ResouceServerConfig.class
+com\zhihuixueyuan\learning\util\SecurityUtil$XcUser.class
+com\zhihuixueyuan\learning\config\TokenConfig.class
+com\zhihuixueyuan\LearningApiApplication.class
+com\zhihuixueyuan\learning\api\MyLearningController.class
+com\zhihuixueyuan\learning\util\SecurityUtil.class

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+      <profile name="Annotation profile for zhihuixueyuan-parent" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../apache-maven-3.9.6/mvn_repo/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
+        </processorPath>
+        <module name="zhihuixueyuan-message-sdk" />
+        <module name="zhihuixueyuan-learning-service" />
+        <module name="zhihuixueyuan-learning-api" />
+        <module name="zhihuixueyuan-system-model" />
+        <module name="zhihuixueyuan-checkcode" />
+        <module name="zhihuixueyuan-orders-service" />
+        <module name="zhihuixueyuan-system-service" />
+        <module name="zhihuixueyuan-content-service" />
+        <module name="zhihuixueyuan-content-model" />
+        <module name="zhihuixueyuan-media-api" />
+        <module name="zhihuixueyuan-media-service" />
+        <module name="zhihuixueyuan-system-api" />
+        <module name="zhihuixueyuan-base" />
+        <module name="zhihuixueyuan-orders-api" />
+        <module name="zhihuixueyuan-orders-model" />
+        <module name="zhihuixueyuan-gateway" />
+        <module name="zhihuixueyuan-search" />
+        <module name="zhihuixueyuan-content-api" />
+        <module name="zhihuixueyuan-media-model" />
+        <module name="zhihuixueyuan-learning-model" />
+        <module name="zhihuixueyuan-auth" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="xuecheng-plus-auth" target="1.8" />
+      <module name="xuecheng-plus-generator" target="1.8" />
+      <module name="xuecheng-plus-learning" target="1.8" />
+      <module name="xuecheng-plus-learning-api" target="1.8" />
+      <module name="xuecheng-plus-learning-model" target="1.8" />
+      <module name="xuecheng-plus-learning-service" target="1.8" />
+      <module name="xuecheng-plus-media" target="1.8" />
+      <module name="xuecheng-plus-orders" target="1.8" />
+      <module name="zhihuixueyuan-plus-content" target="1.8" />
+      <module name="zhihuixueyuan-plus-content-api" target="1.8" />
+      <module name="zhihuixueyuan-plus-content-model" target="1.8" />
+      <module name="zhihuixueyuan-plus-content-service" target="1.8" />
+      <module name="zhihuixueyuan-plus-gateway" target="1.8" />
+      <module name="zhihuixueyuan-plus-generator" target="1.8" />
+      <module name="zhihuixueyuan-plus-learning" target="1.8" />
+      <module name="zhihuixueyuan-plus-learning-api" target="1.8" />
+      <module name="zhihuixueyuan-plus-learning-model" target="1.8" />
+      <module name="zhihuixueyuan-plus-learning-service" target="1.8" />
+      <module name="zhihuixueyuan-plus-media" target="1.8" />
+      <module name="zhihuixueyuan-plus-media-api" target="1.8" />
+      <module name="zhihuixueyuan-plus-media-model" target="1.8" />
+      <module name="zhihuixueyuan-plus-media-service" target="1.8" />
+      <module name="zhihuixueyuan-plus-message-sdk" target="1.8" />
+      <module name="zhihuixueyuan-plus-orders" target="1.8" />
+      <module name="zhihuixueyuan-plus-orders-api" target="1.8" />
+      <module name="zhihuixueyuan-plus-orders-model" target="1.8" />
+      <module name="zhihuixueyuan-plus-orders-service" target="1.8" />
+      <module name="zhihuixueyuan-plus-parent" target="1.8" />
+      <module name="zhihuixueyuan-plus-search" target="1.8" />
+      <module name="zhihuixueyuan-plus-system" target="1.8" />
+      <module name="zhihuixueyuan-plus-system-api" target="1.8" />
+      <module name="zhihuixueyuan-plus-system-model" target="1.8" />
+      <module name="zhihuixueyuan-plus-system-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

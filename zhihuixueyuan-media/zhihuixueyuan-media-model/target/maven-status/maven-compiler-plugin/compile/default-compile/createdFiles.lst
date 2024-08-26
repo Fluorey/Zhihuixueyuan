@@ -1,0 +1,8 @@
+com\zhihuixueyuan\media\model\dto\UploadFileResultDto.class
+com\zhihuixueyuan\media\model\po\MediaFiles.class
+com\zhihuixueyuan\media\model\po\MediaProcess.class
+com\zhihuixueyuan\media\model\po\MediaProcessHistory.class
+com\zhihuixueyuan\media\model\dto\QueryMediaParamsDto.class
+com\zhihuixueyuan\media\model\dto\UploadFileParamsDto.class
+com\zhihuixueyuan\media\model\po\MqMessage.class
+com\zhihuixueyuan\media\model\po\MqMessageHistory.class

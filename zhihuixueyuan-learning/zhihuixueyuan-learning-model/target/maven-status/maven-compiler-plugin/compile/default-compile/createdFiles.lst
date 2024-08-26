@@ -1,0 +1,7 @@
+com\zhihuixueyuan\learning\model\dto\MyCourseTableItemDto.class
+com\zhihuixueyuan\learning\model\po\XcChooseCourse.class
+com\zhihuixueyuan\learning\model\po\XcLearnRecord.class
+com\zhihuixueyuan\learning\model\dto\MyCourseTableParams.class
+com\zhihuixueyuan\learning\model\po\XcCourseTables.class
+com\zhihuixueyuan\learning\model\dto\XcChooseCourseDto.class
+com\zhihuixueyuan\learning\model\dto\XcCourseTablesDto.class

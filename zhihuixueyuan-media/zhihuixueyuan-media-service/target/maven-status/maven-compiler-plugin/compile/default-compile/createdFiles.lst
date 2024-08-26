@@ -1,0 +1,14 @@
+com\zhihuixueyuan\media\service\jobHandler\VideoTask.class
+com\zhihuixueyuan\media\config\MybatisPlusConfig.class
+com\zhihuixueyuan\media\mapper\MqMessageMapper.class
+com\zhihuixueyuan\media\service\MediaFileService.class
+com\zhihuixueyuan\media\mapper\MediaProcessMapper.class
+com\zhihuixueyuan\media\mapper\MediaFilesMapper.class
+com\zhihuixueyuan\media\mapper\MqMessageHistoryMapper.class
+com\zhihuixueyuan\media\service\impl\MediaFileServiceImpl.class
+com\zhihuixueyuan\media\config\MinioConfig.class
+com\zhihuixueyuan\media\service\impl\MediaProcessServiceImpl.class
+com\zhihuixueyuan\media\service\jobHandler\SampleXxlJob.class
+com\zhihuixueyuan\media\service\MediaProcessService.class
+com\zhihuixueyuan\media\mapper\MediaProcessHistoryMapper.class
+com\zhihuixueyuan\media\config\XxlJobConfig.class

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-checkcode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-checkcode/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/zhihuixueyuan-content-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/zhihuixueyuan-content-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/zhihuixueyuan-content-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/zhihuixueyuan-content-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/zhihuixueyuan-content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-content/zhihuixueyuan-content-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/zhihuixueyuan-learning-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/zhihuixueyuan-learning-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/zhihuixueyuan-learning-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/zhihuixueyuan-learning-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/zhihuixueyuan-learning-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-learning/zhihuixueyuan-learning-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/zhihuixueyuan-media-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/zhihuixueyuan-media-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/zhihuixueyuan-media-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/zhihuixueyuan-media-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/zhihuixueyuan-media-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-media/zhihuixueyuan-media-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-message-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-message-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/zhihuixueyuan-orders-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/zhihuixueyuan-orders-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/zhihuixueyuan-orders-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/zhihuixueyuan-orders-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/zhihuixueyuan-orders-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-orders/zhihuixueyuan-orders-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-plus-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-plus-base/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-plus-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-plus-generator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-search/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/zhihuixueyuan-system-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/zhihuixueyuan-system-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/zhihuixueyuan-system-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/zhihuixueyuan-system-model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/zhihuixueyuan-system-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhihuixueyuan-system/zhihuixueyuan-system-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

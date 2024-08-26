@@ -1,0 +1,5 @@
+com\zhihuixueyuan\gateway\config\GatewayAuthFilter.class
+com\zhihuixueyuan\gateway\config\SecurityConfig.class
+com\zhihuixueyuan\GatewayApplication.class
+com\zhihuixueyuan\gateway\config\RestErrorResponse.class
+com\zhihuixueyuan\gateway\config\TokenConfig.class

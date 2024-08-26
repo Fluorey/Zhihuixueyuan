@@ -1,0 +1,4 @@
+com\zhihuixueyuan\system\mapper\DictionaryMapper.class
+com\zhihuixueyuan\system\service\DictionaryService.class
+com\zhihuixueyuan\system\config\MybatisPlusConfig.class
+com\zhihuixueyuan\system\service\impl\DictionaryServiceImpl.class

@@ -1,0 +1,4 @@
+com\zhihuixueyuan\system\config\LocalDateTimeConfig.class
+com\zhihuixueyuan\system\SystemApplication.class
+com\zhihuixueyuan\system\config\GlobalCorsConfig.class
+com\zhihuixueyuan\system\controller\DictionaryController.class
